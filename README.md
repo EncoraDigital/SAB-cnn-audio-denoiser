@@ -6,7 +6,7 @@ Blog post: [Practical Deep Learning Audio Denoising](https://medium.com/better-p
 
 ## Dataset
 
-Part of the dataset used to train the original system is now (available to download)[http://cdn.daitan.com/dataset.zip]
+Part of the dataset used to train the original system is now [available to download](http://cdn.daitan.com/dataset.zip)
   
 The zip file contains 1 training file (that is 10% of the data used to train the system), a validation file, and two 
 audio files (not included in the training files) used to evaluate the model. 
